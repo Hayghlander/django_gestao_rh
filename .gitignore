@@ -1,2 +1,3 @@
-*.sqlitle3
+*db.sqlitle3
 gestao_rh_venv
+*.pyc
